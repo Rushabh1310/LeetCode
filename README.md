@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Rushabh1310/LeetCode/tree/master/0326-power-of-three) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rushabh1310/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Recursion
 |  |
 | ------- |
