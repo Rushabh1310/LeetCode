@@ -8,6 +8,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Rushabh1310/LeetCode/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rushabh1310/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String
@@ -55,6 +56,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Rushabh1310/LeetCode/tree/master/0048-rotate-image) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0898-transpose-matrix](https://github.com/Rushabh1310/LeetCode/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -64,4 +66,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rushabh1310/LeetCode/tree/master/0048-rotate-image) |
+| [0898-transpose-matrix](https://github.com/Rushabh1310/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
