@@ -8,6 +8,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rushabh1310/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String
 |  |
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Rushabh1310/LeetCode/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Two Pointers
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
