@@ -22,6 +22,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -51,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
