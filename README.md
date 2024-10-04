@@ -10,6 +10,7 @@
 | ------- |
 | [0898-transpose-matrix](https://github.com/Rushabh1310/LeetCode/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Rushabh1310/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rushabh1310/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String
 |  |
@@ -50,6 +51,7 @@
 | [0326-power-of-three](https://github.com/Rushabh1310/LeetCode/tree/master/0326-power-of-three) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Rushabh1310/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rushabh1310/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Rushabh1310/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Rushabh1310/LeetCode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Recursion
 |  |
