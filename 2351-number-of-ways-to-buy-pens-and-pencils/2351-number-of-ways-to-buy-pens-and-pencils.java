@@ -3,8 +3,7 @@ class Solution {
         long ans = 0;
         for (int pens = 0; pens <= total / cost1; pens++) {
             int remainingMoney = total - pens * cost1;
-            int pencils = remainingMoney / cost2;
-            ans += (pencils + 1);
+            ans += (remainingMoney / cost2) + 1;
         }
         return ans;
     }
