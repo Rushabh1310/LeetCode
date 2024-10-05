@@ -64,6 +64,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0898-transpose-matrix](https://github.com/Rushabh1310/LeetCode/tree/master/0898-transpose-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1572-subrectangle-queries](https://github.com/Rushabh1310/LeetCode/tree/master/1572-subrectangle-queries) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Rushabh1310/LeetCode/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/Rushabh1310/LeetCode/tree/master/0898-transpose-matrix) |
+| [1572-subrectangle-queries](https://github.com/Rushabh1310/LeetCode/tree/master/1572-subrectangle-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Rushabh1310/LeetCode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+## Design
+|  |
+| ------- |
+| [1572-subrectangle-queries](https://github.com/Rushabh1310/LeetCode/tree/master/1572-subrectangle-queries) |
 <!---LeetCode Topics End-->
