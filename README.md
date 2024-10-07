@@ -12,11 +12,13 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rushabh1310/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rushabh1310/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Rushabh1310/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Rushabh1310/LeetCode/tree/master/0812-rotate-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Rushabh1310/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/Rushabh1310/LeetCode/tree/master/1572-subrectangle-queries) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Rushabh1310/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
