@@ -1,5 +1,3 @@
-import java.util.Stack;
-
 class Solution {
     public int minLength(String s) {
         Stack<Character> stack = new Stack<>();
