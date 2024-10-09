@@ -18,6 +18,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Rushabh1310/LeetCode/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushabh1310/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rushabh1310/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rushabh1310/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String Matching
@@ -91,6 +92,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushabh1310/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Rushabh1310/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rushabh1310/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Database
@@ -108,6 +110,7 @@
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushabh1310/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rushabh1310/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rushabh1310/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
