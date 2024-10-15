@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Rushabh1310/LeetCode/tree/master/0178-rank-scores) |
+| [0196-delete-duplicate-emails](https://github.com/Rushabh1310/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0608-tree-node](https://github.com/Rushabh1310/LeetCode/tree/master/0608-tree-node) |
 ## Enumeration
 |  |
