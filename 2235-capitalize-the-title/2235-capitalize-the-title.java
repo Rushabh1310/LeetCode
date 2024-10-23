@@ -1,12 +1,16 @@
 class Solution {
     public String capitalizeTitle(String title) {
-        title = title.toLowerCase();
         String[] words = title.split(" ");
+        StringBuilder sb = new StringBuilder();
         for (int i = 0; i < words.length; i++) {
             if (words[i].length() > 2) {
-                words[i] = words[i].substring(0, 1).toUpperCase() + words[i].substring(1);
+                sb.append(Character.toUpperCase(words[i].charAt(0)));
+                sb.append(words[i].substring(1).toLowerCase());
+            } else {
+                sb.append(words[i].toLowerCase());
             }
+            sb.append(" ");
         }
-        return String.join(" ", words);
+        return sb.toString().trim();
     }
 }
