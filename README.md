@@ -20,6 +20,7 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Rushabh1310/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/Rushabh1310/LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/Rushabh1310/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushabh1310/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rushabh1310/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
