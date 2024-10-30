@@ -23,6 +23,7 @@
 | [0520-detect-capital](https://github.com/Rushabh1310/LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/Rushabh1310/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushabh1310/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1297-maximum-number-of-balloons](https://github.com/Rushabh1310/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rushabh1310/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2235-capitalize-the-title](https://github.com/Rushabh1310/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rushabh1310/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -42,6 +43,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/Rushabh1310/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1297-maximum-number-of-balloons](https://github.com/Rushabh1310/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rushabh1310/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3541-report-spam-message](https://github.com/Rushabh1310/LeetCode/tree/master/3541-report-spam-message) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1297-maximum-number-of-balloons](https://github.com/Rushabh1310/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
