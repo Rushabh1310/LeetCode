@@ -42,6 +42,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/Rushabh1310/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3541-report-spam-message](https://github.com/Rushabh1310/LeetCode/tree/master/3541-report-spam-message) |
 ## Sorting
 |  |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1572-subrectangle-queries](https://github.com/Rushabh1310/LeetCode/tree/master/1572-subrectangle-queries) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3541-report-spam-message](https://github.com/Rushabh1310/LeetCode/tree/master/3541-report-spam-message) |
 ## Two Pointers
 |  |
