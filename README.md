@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rushabh1310/LeetCode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/Rushabh1310/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rushabh1310/LeetCode/tree/master/0326-power-of-three) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Rushabh1310/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rushabh1310/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -81,6 +82,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Rushabh1310/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rushabh1310/LeetCode/tree/master/0326-power-of-three) |
 ## Array
 |  |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Rushabh1310/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Rushabh1310/LeetCode/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
