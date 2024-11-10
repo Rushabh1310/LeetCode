@@ -47,6 +47,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/Rushabh1310/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rushabh1310/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3541-report-spam-message](https://github.com/Rushabh1310/LeetCode/tree/master/3541-report-spam-message) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@
 | [1572-subrectangle-queries](https://github.com/Rushabh1310/LeetCode/tree/master/1572-subrectangle-queries) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3541-report-spam-message](https://github.com/Rushabh1310/LeetCode/tree/master/3541-report-spam-message) |
 ## Two Pointers
 |  |
