@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rushabh1310/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Rushabh1310/LeetCode/tree/master/0053-maximum-subarray) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushabh1310/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0898-transpose-matrix](https://github.com/Rushabh1310/LeetCode/tree/master/0898-transpose-matrix) |
@@ -116,6 +117,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rushabh1310/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Rushabh1310/LeetCode/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Rushabh1310/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rushabh1310/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
