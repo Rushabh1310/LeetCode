@@ -42,6 +42,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Rushabh1310/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0575-distribute-candies](https://github.com/Rushabh1310/LeetCode/tree/master/0575-distribute-candies) |
 | [0940-fruit-into-baskets](https://github.com/Rushabh1310/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Rushabh1310/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -93,6 +94,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Rushabh1310/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rushabh1310/LeetCode/tree/master/0455-assign-cookies) |
+| [0575-distribute-candies](https://github.com/Rushabh1310/LeetCode/tree/master/0575-distribute-candies) |
 | [0898-transpose-matrix](https://github.com/Rushabh1310/LeetCode/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/Rushabh1310/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/1256-rank-transform-of-an-array) |
