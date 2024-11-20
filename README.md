@@ -15,6 +15,7 @@
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rushabh1310/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rushabh1310/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rushabh1310/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Rushabh1310/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [2235-capitalize-the-title](https://github.com/Rushabh1310/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rushabh1310/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rushabh1310/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Rushabh1310/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3541-report-spam-message](https://github.com/Rushabh1310/LeetCode/tree/master/3541-report-spam-message) |
 ## String Matching
 |  |
