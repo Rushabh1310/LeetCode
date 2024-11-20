@@ -82,6 +82,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rushabh1310/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rushabh1310/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/Rushabh1310/LeetCode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2481-strictly-palindromic-number](https://github.com/Rushabh1310/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0455-assign-cookies](https://github.com/Rushabh1310/LeetCode/tree/master/0455-assign-cookies) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rushabh1310/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2481-strictly-palindromic-number](https://github.com/Rushabh1310/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Matrix
 |  |
 | ------- |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rushabh1310/LeetCode/tree/master/0053-maximum-subarray) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Rushabh1310/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
