@@ -31,6 +31,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rushabh1310/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2235-capitalize-the-title](https://github.com/Rushabh1310/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rushabh1310/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Rushabh1310/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rushabh1310/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Rushabh1310/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3541-report-spam-message](https://github.com/Rushabh1310/LeetCode/tree/master/3541-report-spam-message) |
@@ -125,6 +126,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rushabh1310/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Rushabh1310/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Rushabh1310/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Matrix
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Rushabh1310/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rushabh1310/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rushabh1310/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/Rushabh1310/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Database
 |  |
 | ------- |
