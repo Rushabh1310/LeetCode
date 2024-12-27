@@ -85,6 +85,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Rushabh1310/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Rushabh1310/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Rushabh1310/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rushabh1310/LeetCode/tree/master/0326-power-of-three) |
