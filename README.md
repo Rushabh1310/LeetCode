@@ -30,6 +30,7 @@
 | [0812-rotate-string](https://github.com/Rushabh1310/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rushabh1310/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1297-maximum-number-of-balloons](https://github.com/Rushabh1310/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1524-string-matching-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rushabh1310/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rushabh1310/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2235-capitalize-the-title](https://github.com/Rushabh1310/LeetCode/tree/master/2235-capitalize-the-title) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Rushabh1310/LeetCode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0940-fruit-into-baskets](https://github.com/Rushabh1310/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rushabh1310/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1524-string-matching-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1572-subrectangle-queries](https://github.com/Rushabh1310/LeetCode/tree/master/1572-subrectangle-queries) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rushabh1310/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
