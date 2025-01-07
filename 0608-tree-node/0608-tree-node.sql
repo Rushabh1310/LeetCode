@@ -5,4 +5,4 @@ SELECT id,
     WHEN id IN (SELECT p_id FROM Tree) THEN 'Inner'
     ELSE 'Leaf'
 END) AS type
-FROM Tree;
+FROM Tree; 
