@@ -94,6 +94,7 @@
 | [0048-rotate-image](https://github.com/Rushabh1310/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Rushabh1310/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rushabh1310/LeetCode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Rushabh1310/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Rushabh1310/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Rushabh1310/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rushabh1310/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -204,6 +205,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Rushabh1310/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rushabh1310/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushabh1310/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Rushabh1310/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
