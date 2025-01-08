@@ -119,6 +119,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rushabh1310/LeetCode/tree/master/0455-assign-cookies) |
 | [0575-distribute-candies](https://github.com/Rushabh1310/LeetCode/tree/master/0575-distribute-candies) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Rushabh1310/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Rushabh1310/LeetCode/tree/master/0898-transpose-matrix) |
 | [0940-fruit-into-baskets](https://github.com/Rushabh1310/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -206,6 +207,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rushabh1310/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushabh1310/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Rushabh1310/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Rushabh1310/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
