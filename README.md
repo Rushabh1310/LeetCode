@@ -52,6 +52,7 @@
 | [0141-linked-list-cycle](https://github.com/Rushabh1310/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rushabh1310/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Rushabh1310/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Rushabh1310/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushabh1310/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rushabh1310/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rushabh1310/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -68,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rushabh1310/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushabh1310/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Rushabh1310/LeetCode/tree/master/0455-assign-cookies) |
@@ -83,6 +85,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rushabh1310/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rushabh1310/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rushabh1310/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1297-maximum-number-of-balloons](https://github.com/Rushabh1310/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -117,6 +120,7 @@
 | [0048-rotate-image](https://github.com/Rushabh1310/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rushabh1310/LeetCode/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rushabh1310/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Rushabh1310/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rushabh1310/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rushabh1310/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Rushabh1310/LeetCode/tree/master/0455-assign-cookies) |
